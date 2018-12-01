@@ -2476,3 +2476,26 @@ input, select, textarea {
 				display: flex;
 				justify-content: center;
 			}
+
+			.skillimg{
+				width: 100px;
+				height: 100px;
+
+			}
+
+			.containerskills{
+				display: flex;
+				justify-content: space-around;
+				flex-direction: column;
+				margin:auto;
+			}
+
+			.eachskill{
+				margin-top: 40px;
+				display: flex;
+				justify-content: space-around;
+			}
+
+			.learnbutton{
+				margin-top: 40px;
+			}
